@@ -124,15 +124,28 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Achievements & Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Md-SAMI-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Syed Mohammed Samiul Ahmed's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-SAMI-7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Md-SAMI-7&theme=tokyonight&no-bg=true&no-frame=true&column=6" alt="Syed Mohammed Samiul Ahmed's GitHub Trophies" />
+</p>
+
+---
+
+## 📊 GitHub Analytics & Contribution Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Md-SAMI-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Syed Mohammed Samiul Ahmed's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-SAMI-7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-SAMI-7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-SAMI-7&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://leetcode-stats-api.herokuapp.com/Md-SAMI-7" alt="LeetCode Stats" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-SAMI-7&theme=react-dark&hide_border=true&area=true" alt="Contribution Activity Graph" width="100%" />
 </p>
 
 ---
