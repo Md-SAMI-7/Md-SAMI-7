@@ -1,0 +1,22 @@
+name: Daily Profile Stats Refresh
+
+on:
+  schedule:
+    # Runs automatically every day at midnight UTC (5:30 AM IST)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual trigger from Actions tab
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Auto-commit to keep profile fresh and maintain daily streak
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          date -u > .last_updated
+          git add .last_updated
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-refresh profile stats & streak [$(date -u +'%Y-%m-%d')]" && git push)
