@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Syed Mohammed Samiul Ahmed 👋</h1>
+[<h1 align="center">Hi there, I'm Syed Mohammed Samiul Ahmed 👋</h1>
 <h3 align="center">Generative AI Engineer | Full-Stack & REST API Developer | Data & Computer Vision | Problem Solver</h3>
 
 <p align="center">
@@ -153,3 +153,4 @@
 <p align="center">
   📬 <b>Connect with me:</b> <a href="mailto:isss.abdussami@gmail.com">isss.abdussami@gmail.com</a> | <a href="https://www.linkedin.com/in/syed-mohammed-samiul-ahmed/">LinkedIn</a> | <a href="https://leetcode.com/u/Md-SAMI-7/">LeetCode</a>
 </p>
+](https://github.com/Md-SAMI-7/Md-SAMI-7/edit/main/README.md)
