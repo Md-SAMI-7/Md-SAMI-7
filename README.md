@@ -1,4 +1,4 @@
-[<h1 align="center">Hi there, I'm Syed Mohammed Samiul Ahmed 👋</h1>
+<h1 align="center">Hi there, I'm Syed Mohammed Samiul Ahmed 👋</h1>
 <h3 align="center">Generative AI Engineer | Full-Stack & REST API Developer | Data & Computer Vision | Problem Solver</h3>
 
 <p align="center">
@@ -132,15 +132,15 @@
 
 ---
 
-## 📊 GitHub Analytics & Contribution Stats
+## 📊 Live GitHub Analytics & Daily Contribution Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Md-SAMI-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Syed Mohammed Samiul Ahmed's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-SAMI-7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Md-SAMI-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=3600" alt="Syed Mohammed Samiul Ahmed's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-SAMI-7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=3600" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-SAMI-7&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Md-SAMI-7&theme=tokyonight&hide_border=true&date_format=M%20j%5C%2C%20Y&cache_seconds=3600" alt="GitHub Streak" width="48%" />
   <img src="https://leetcode-stats-api.herokuapp.com/Md-SAMI-7" alt="LeetCode Stats" width="48%" />
 </p>
 
@@ -153,4 +153,3 @@
 <p align="center">
   📬 <b>Connect with me:</b> <a href="mailto:isss.abdussami@gmail.com">isss.abdussami@gmail.com</a> | <a href="https://www.linkedin.com/in/syed-mohammed-samiul-ahmed/">LinkedIn</a> | <a href="https://leetcode.com/u/Md-SAMI-7/">LeetCode</a>
 </p>
-](https://github.com/Md-SAMI-7/Md-SAMI-7/edit/main/README.md)
