@@ -47,6 +47,7 @@
 
 <p align="center">
   <b>Frameworks & Build Tools</b><br/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
@@ -99,26 +100,35 @@
 
 ## 📁 Featured Projects
 
-### 1. 🤖 [LangChain + Streamlit RAG (Retrieval-Augmented Generation) App](https://github.com/Md-SAMI-7)
+### 1. 🫀 [Uncertainty-Aware Explainable Federated Learning for Multi-Label ECG Classification (Capstone Project)](https://github.com/ECG-CAPSTONE-PROJECT/ECG_PROJECT)
+- **Collaborative B.Tech Capstone Project** at **VIT-AP University**, guided by **Dr. Lalitha Kumari P**.
+- Architected a decentralized, privacy-preserving multi-label ECG classification framework across 5 non-IID clinical hospital partitions using **1D ResNet-34** and federated optimization algorithms (**FedAvg**, **FedProx**, **FedAdam**).
+- Integrated **Explainable AI (XAI)** via temporal/lead-wise **Grad-CAM** saliency maps and clinical fiducial **SHAP** feature attribution.
+- Quantified epistemic uncertainty via **Monte Carlo Dropout** (30 forward passes) and validated a statistically significant correlation ($r = 0.684, p < 0.01$) between predictive uncertainty and inter-client explanation inconsistency.
+- **Repository:** [ECG-CAPSTONE-PROJECT/ECG_PROJECT](https://github.com/ECG-CAPSTONE-PROJECT/ECG_PROJECT)
+
+---
+
+### 2. 🤖 [LangChain + Streamlit RAG (Retrieval-Augmented Generation) App](https://github.com/Md-SAMI-7)
 - Developed a full-stack RAG web application utilizing **LangChain** and **Streamlit** to scrape Wikipedia content, process semantic text chunking, and generate embeddings.
 - Engineered a hybrid retrieval system using **ChromaDB** vector store and LangChain's `EnsembleRetriever` to achieve high-recall context retrieval, improving factual accuracy by ~30% over baseline.
 - Containerized with **Docker** for deployment on **AWS EC2**.
 
 ---
 
-### 2. 📄 [Resume Parser — HR Analytics ATS Scorer](https://github.com/Md-SAMI-7)
+### 3. 📄 [Resume Parser — HR Analytics ATS Scorer](https://github.com/Md-SAMI-7)
 - Architected an Applicant Tracking System (ATS) featuring a Python-based resume parsing backend and a **React/Redux Toolkit** dashboard.
 - Designed a normalized **SQL** database schema to store candidate profiles and automated candidate shortlisting with a custom keyword-matching and regex-parsing engine, reducing manual recruiter screening time by 50%.
 
 ---
 
-### 3. 🔍 [Entity Resolution & Data Deduplication Engine](https://github.com/Md-SAMI-7)
+### 4. 🔍 [Entity Resolution & Data Deduplication Engine](https://github.com/Md-SAMI-7)
 - Developed an Entity Resolution engine in Python using **Pandas** and **NumPy** to link and reconcile dirty, unstructured record sets with canonical master datasets.
 - Implemented character-level n-grams, Jaccard similarity, and Levenshtein distance metrics to resolve company name variations, boosting match rate by 40%.
 
 ---
 
-### 4. 🎭 [Emotion Detection using CNN](https://github.com/Md-SAMI-7)
+### 5. 🎭 [Emotion Detection using CNN](https://github.com/Md-SAMI-7)
 - Designed and trained a Convolutional Neural Network (CNN) on the FER2013 dataset using **TensorFlow/Keras** to classify 7 distinct facial emotions.
 - Integrated **OpenCV** for real-time webcam video feed capture, face detection (Haar Cascades), and frame preprocessing, executing local inference at 30+ FPS.
 
